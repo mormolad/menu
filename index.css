@@ -1,0 +1,11 @@
+.main-list__item_disable {
+    display: none;
+}
+
+.main-list__item {
+    margin-left: 10px;
+}
+
+.main-list__item_node:hover{
+    cursor: pointer;
+}
